@@ -1,0 +1,31 @@
+.test
+
+{
+  display: block;
+  padding: 25px;
+  padding-top:5px;
+  border-left: 1px solid #e5e5e5;
+  border-right: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.news
+{
+  font-size: large;
+  font-weight: 300;
+  line-height: 1.2;
+  list-style-image: url('https://rus.eek.ee/img/nool_kollane.png');
+
+
+
+}
+
+.addnews
+
+{
+  margin-bottom: 40px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+
